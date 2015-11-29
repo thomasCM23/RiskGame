@@ -1,0 +1,42 @@
+Quebec:,Greenland,Ontario,Eastern United States
+Alaska:,Northwest Country,Alberta,Kamchatka
+Eastern United States:,Western United States,Central America,Ontario,Quebec
+Greenland:,Ontario,Quebec,Northwest Country,Iceland
+Alberta:,Northwest Country,Ontario,Western United States,Alaska
+Central America:,Western United States,Eastern United States,Venezuela
+Northwest Country:,Ontario,Alberta,Alaska,Greenland
+Ontario:,Quebec,Alberta,Northwest Country,Western United States,Eastern United States
+Western United States:,Eastern United States,Central America,Alberta,Ontario
+Venezuela:,Brazil,Peru,Central America
+Argentina:,Brazil,Peru,
+Brazil:,North Africa,Peru,Argentina,Venezuela
+Peru:,Brazil,Argentina,Venezuela
+Congo:,South Africa,East Africa,North Africa
+East Africa:,Egypt,South Africa,Congo,Madagascar,Middle East
+Egypt:,Southern Europe,Middle East,North Africa,East Africa
+Madagascar:,South Africa,East Africa
+North Africa:,Congo,East Africa,Egypt,Western Europe,Southern Europe
+South Africa:,Congo,East Africa,Madagascar
+Great Britain:,Iceland,Scandinavia,Northern Europe,Western Europe
+Iceland:,Great Britain,Greenland,Scandinavia
+Northern Europe:,Scandinavia,Great Britain,Western Europe,Southern Europe,Ukraine
+Scandinavia:,Great Britain,Iceland,Northern Europe,Ukraine
+Southern Europe:,Northern Europe,Ukraine,Western Europe,Middle East,Egypt,North Africa
+Ukraine:,Scandinavia,Northern Europe,Southern Europe,Middle East,Afghanistan,Ural
+Western Europe:,Great Britain,Northern Europe,Southern Europe,North Africa
+Eastern Australia:,Western Australia,New Guinea
+Indonesia:,Siam,Western Australia,New Guinea
+New Guinea:,Indonesia,Western Australia,Eastern Australia
+Western Australia:,Eastern Australia,Indonesia,New Guinea
+Yakutsk:,Kamchatka,Siberia,Irkutsk,Siberia
+Ural:,Ukraine,Afghanistan,Siberia,China
+India:,Middle East,Afghanistan,Siam,China
+Afghanistan:,Ural,China,India,Middle East,Ukraine
+China:,Afghanistan,India,Mongolia,Siam,Ural,Siberia
+Irkutsk:,Siberia,Yakutsk,Mongolia,Kamchatka
+Japan:,Mongolia,Kamchatka
+Kamchatka:,Japan,Yakutsk,Irkutsk,Mongolia,Alaska
+Middle East:,Egypt,East Africa,Southern Europe,Ukraine,Afghanistan,India
+Mongolia:,Irkutsk,Japan,Kamchatka,China,Siberia
+Siam:,Indonesia,India,China
+Siberia:,Ural,China,Mongolia,Irkutsk,Yakutsk
