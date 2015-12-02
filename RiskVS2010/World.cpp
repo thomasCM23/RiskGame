@@ -326,6 +326,11 @@ bool World::pathFindCountry(Country* country1, Country* country2, Player* player
 		{
 			//need to put marked back to false for every country
 			//here but map iterator is my enemy
+			for (std::map<string, Country*>::iterator it = _territories.begin(); it != _territories.end(); ++it)
+			{
+				it->second->marked = false;
+			}
+				
 			return true;
 		}
 		for (int i = 0; i < c->getBoarders().size(); i++)
